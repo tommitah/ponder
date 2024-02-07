@@ -1,0 +1,4 @@
+(executable
+ (public_name ponder)
+ (name main)
+ (libraries RestClient))

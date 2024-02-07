@@ -1,0 +1,4 @@
+(library
+ (name RestClient)
+ (libraries lwt cohttp-lwt-unix cohttp-async)
+ (modules restClient))
